@@ -1,0 +1,33 @@
+# Compilados
+build/
+*.exe
+*.out.txt
+*.o
+*.obj
+
+# Visual Studio
+.vs/
+x64/
+x86/
+Debug/
+Release/
+*.user
+*.suo
+*.vcxproj.filters
+*.VC.db
+*.VC.opendb
+*.ipch
+
+# VS Code / CLion
+.vscode/
+.idea/
+cmake-build-*/
+
+# Python
+__pycache__/
+*.pyc
+
+# Sistema
+.DS_Store
+Thumbs.db
+~$*.docx
